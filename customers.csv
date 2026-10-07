@@ -1,0 +1,1001 @@
+customer_id,customer_name,city,state,age
+1001,Aarav Sharma,Bengaluru,Karnataka,18
+1002,Vivaan Yadav,Delhi,Delhi,30
+1003,Aditya Kumar,Indore,Madhya Pradesh,21
+1004,Arjun Verma,Chandigarh,Chandigarh,18
+1005,Rahul Patel,Ahmedabad,Gujarat,57
+1006,Amit Mehta,Hyderabad,Telangana,49
+1007,Rohan Singh,Indore,Madhya Pradesh,51
+1008,Karan Agarwal,Mumbai,Maharashtra,45
+1009,Vikas Joshi,Bengaluru,Karnataka,48
+1010,Ankit Gupta,Kolkata,West Bengal,25
+1011,Priya Sharma,Udaipur,Rajasthan,56
+1012,Ananya Yadav,Bengaluru,Karnataka,43
+1013,Neha Kumar,Ahmedabad,Gujarat,51
+1014,Sneha Verma,Ahmedabad,Gujarat,20
+1015,Pooja Patel,Hyderabad,Telangana,29
+1016,Kavya Mehta,Mumbai,Maharashtra,18
+1017,Isha Singh,Delhi,Delhi,22
+1018,Riya Agarwal,Hyderabad,Telangana,47
+1019,Simran Joshi,Hyderabad,Telangana,47
+1020,Meera Gupta,Udaipur,Rajasthan,34
+1021,Aarav Sharma,Pune,Maharashtra,40
+1022,Vivaan Yadav,Mumbai,Maharashtra,32
+1023,Aditya Kumar,Jodhpur,Rajasthan,54
+1024,Arjun Verma,Hyderabad,Telangana,38
+1025,Rahul Patel,Lucknow,Uttar Pradesh,31
+1026,Amit Mehta,Bhopal,Madhya Pradesh,19
+1027,Rohan Singh,Pune,Maharashtra,28
+1028,Karan Agarwal,Jodhpur,Rajasthan,56
+1029,Vikas Joshi,Lucknow,Uttar Pradesh,55
+1030,Ankit Gupta,Mumbai,Maharashtra,51
+1031,Priya Sharma,Jaipur,Rajasthan,55
+1032,Ananya Yadav,Lucknow,Uttar Pradesh,51
+1033,Neha Kumar,Kolkata,West Bengal,35
+1034,Sneha Verma,Pune,Maharashtra,47
+1035,Pooja Patel,Indore,Madhya Pradesh,32
+1036,Kavya Mehta,Lucknow,Uttar Pradesh,44
+1037,Isha Singh,Chennai,Tamil Nadu,51
+1038,Riya Agarwal,Jaipur,Rajasthan,55
+1039,Simran Joshi,Ahmedabad,Gujarat,50
+1040,Meera Gupta,Ahmedabad,Gujarat,41
+1041,Aarav Sharma,Chandigarh,Chandigarh,32
+1042,Vivaan Yadav,Kolkata,West Bengal,47
+1043,Aditya Kumar,Lucknow,Uttar Pradesh,59
+1044,Arjun Verma,Lucknow,Uttar Pradesh,34
+1045,Rahul Patel,Chandigarh,Chandigarh,22
+1046,Amit Mehta,Bhopal,Madhya Pradesh,46
+1047,Rohan Singh,Bhopal,Madhya Pradesh,21
+1048,Karan Agarwal,Chandigarh,Chandigarh,27
+1049,Vikas Joshi,Bhopal,Madhya Pradesh,34
+1050,Ankit Gupta,Udaipur,Rajasthan,27
+1051,Priya Sharma,Lucknow,Uttar Pradesh,34
+1052,Ananya Yadav,Bengaluru,Karnataka,37
+1053,Neha Kumar,Delhi,Delhi,41
+1054,Sneha Verma,Chennai,Tamil Nadu,22
+1055,Pooja Patel,Udaipur,Rajasthan,51
+1056,Kavya Mehta,Mumbai,Maharashtra,23
+1057,Isha Singh,Udaipur,Rajasthan,19
+1058,Riya Agarwal,Bengaluru,Karnataka,30
+1059,Simran Joshi,Mumbai,Maharashtra,60
+1060,Meera Gupta,Chennai,Tamil Nadu,60
+1061,Aarav Sharma,Bengaluru,Karnataka,28
+1062,Vivaan Yadav,Jodhpur,Rajasthan,40
+1063,Aditya Kumar,Delhi,Delhi,33
+1064,Arjun Verma,Chennai,Tamil Nadu,48
+1065,Rahul Patel,Lucknow,Uttar Pradesh,28
+1066,Amit Mehta,Bhopal,Madhya Pradesh,33
+1067,Rohan Singh,Jodhpur,Rajasthan,25
+1068,Karan Agarwal,Kolkata,West Bengal,21
+1069,Vikas Joshi,Chennai,Tamil Nadu,57
+1070,Ankit Gupta,Kolkata,West Bengal,21
+1071,Priya Sharma,Mumbai,Maharashtra,42
+1072,Ananya Yadav,Jodhpur,Rajasthan,20
+1073,Neha Kumar,Delhi,Delhi,49
+1074,Sneha Verma,Lucknow,Uttar Pradesh,20
+1075,Pooja Patel,Chandigarh,Chandigarh,44
+1076,Kavya Mehta,Lucknow,Uttar Pradesh,46
+1077,Isha Singh,Bengaluru,Karnataka,49
+1078,Riya Agarwal,Lucknow,Uttar Pradesh,36
+1079,Simran Joshi,Indore,Madhya Pradesh,38
+1080,Meera Gupta,Hyderabad,Telangana,22
+1081,Aarav Sharma,Chandigarh,Chandigarh,35
+1082,Vivaan Yadav,Udaipur,Rajasthan,45
+1083,Aditya Kumar,Bhopal,Madhya Pradesh,59
+1084,Arjun Verma,Jaipur,Rajasthan,39
+1085,Rahul Patel,Delhi,Delhi,38
+1086,Amit Mehta,Jodhpur,Rajasthan,23
+1087,Rohan Singh,Hyderabad,Telangana,18
+1088,Karan Agarwal,Delhi,Delhi,22
+1089,Vikas Joshi,Jodhpur,Rajasthan,58
+1090,Ankit Gupta,Bhopal,Madhya Pradesh,29
+1091,Priya Sharma,Pune,Maharashtra,43
+1092,Ananya Yadav,Pune,Maharashtra,51
+1093,Neha Kumar,Kolkata,West Bengal,31
+1094,Sneha Verma,Delhi,Delhi,43
+1095,Pooja Patel,Pune,Maharashtra,44
+1096,Kavya Mehta,Indore,Madhya Pradesh,26
+1097,Isha Singh,Chandigarh,Chandigarh,43
+1098,Riya Agarwal,Jodhpur,Rajasthan,39
+1099,Simran Joshi,Kolkata,West Bengal,47
+1100,Meera Gupta,Lucknow,Uttar Pradesh,60
+1101,Aarav Sharma,Jodhpur,Rajasthan,34
+1102,Vivaan Yadav,Kolkata,West Bengal,43
+1103,Aditya Kumar,Bhopal,Madhya Pradesh,53
+1104,Arjun Verma,Delhi,Delhi,18
+1105,Rahul Patel,Bhopal,Madhya Pradesh,25
+1106,Amit Mehta,Chandigarh,Chandigarh,52
+1107,Rohan Singh,Chandigarh,Chandigarh,32
+1108,Karan Agarwal,Hyderabad,Telangana,39
+1109,Vikas Joshi,Bhopal,Madhya Pradesh,31
+1110,Ankit Gupta,Bengaluru,Karnataka,43
+1111,Priya Sharma,Lucknow,Uttar Pradesh,45
+1112,Ananya Yadav,Chennai,Tamil Nadu,40
+1113,Neha Kumar,Bhopal,Madhya Pradesh,31
+1114,Sneha Verma,Hyderabad,Telangana,41
+1115,Pooja Patel,Mumbai,Maharashtra,19
+1116,Kavya Mehta,Indore,Madhya Pradesh,43
+1117,Isha Singh,Jodhpur,Rajasthan,31
+1118,Riya Agarwal,Chandigarh,Chandigarh,24
+1119,Simran Joshi,Mumbai,Maharashtra,20
+1120,Meera Gupta,Hyderabad,Telangana,40
+1121,Aarav Sharma,Kolkata,West Bengal,60
+1122,Vivaan Yadav,Chennai,Tamil Nadu,35
+1123,Aditya Kumar,Lucknow,Uttar Pradesh,55
+1124,Arjun Verma,Lucknow,Uttar Pradesh,52
+1125,Rahul Patel,Lucknow,Uttar Pradesh,32
+1126,Amit Mehta,Indore,Madhya Pradesh,42
+1127,Rohan Singh,Chennai,Tamil Nadu,54
+1128,Karan Agarwal,Indore,Madhya Pradesh,45
+1129,Vikas Joshi,Chandigarh,Chandigarh,27
+1130,Ankit Gupta,Indore,Madhya Pradesh,56
+1131,Priya Sharma,Jaipur,Rajasthan,34
+1132,Ananya Yadav,Chennai,Tamil Nadu,56
+1133,Neha Kumar,Bengaluru,Karnataka,39
+1134,Sneha Verma,Chennai,Tamil Nadu,43
+1135,Pooja Patel,Hyderabad,Telangana,42
+1136,Kavya Mehta,Jaipur,Rajasthan,34
+1137,Isha Singh,Lucknow,Uttar Pradesh,30
+1138,Riya Agarwal,Hyderabad,Telangana,37
+1139,Simran Joshi,Hyderabad,Telangana,42
+1140,Meera Gupta,Chandigarh,Chandigarh,21
+1141,Aarav Sharma,Ahmedabad,Gujarat,27
+1142,Vivaan Yadav,Udaipur,Rajasthan,20
+1143,Aditya Kumar,Jaipur,Rajasthan,58
+1144,Arjun Verma,Hyderabad,Telangana,35
+1145,Rahul Patel,Udaipur,Rajasthan,53
+1146,Amit Mehta,Udaipur,Rajasthan,39
+1147,Rohan Singh,Jaipur,Rajasthan,51
+1148,Karan Agarwal,Ahmedabad,Gujarat,25
+1149,Vikas Joshi,Mumbai,Maharashtra,57
+1150,Ankit Gupta,Kolkata,West Bengal,36
+1151,Priya Sharma,Bengaluru,Karnataka,59
+1152,Ananya Yadav,Kolkata,West Bengal,58
+1153,Neha Kumar,Chennai,Tamil Nadu,54
+1154,Sneha Verma,Lucknow,Uttar Pradesh,23
+1155,Pooja Patel,Bengaluru,Karnataka,43
+1156,Kavya Mehta,Chennai,Tamil Nadu,51
+1157,Isha Singh,Hyderabad,Telangana,23
+1158,Riya Agarwal,Lucknow,Uttar Pradesh,54
+1159,Simran Joshi,Jodhpur,Rajasthan,50
+1160,Meera Gupta,Jaipur,Rajasthan,39
+1161,Aarav Sharma,Bengaluru,Karnataka,38
+1162,Vivaan Yadav,Bengaluru,Karnataka,23
+1163,Aditya Kumar,Bhopal,Madhya Pradesh,23
+1164,Arjun Verma,Hyderabad,Telangana,21
+1165,Rahul Patel,Mumbai,Maharashtra,47
+1166,Amit Mehta,Udaipur,Rajasthan,28
+1167,Rohan Singh,Lucknow,Uttar Pradesh,47
+1168,Karan Agarwal,Hyderabad,Telangana,48
+1169,Vikas Joshi,Pune,Maharashtra,41
+1170,Ankit Gupta,Ahmedabad,Gujarat,26
+1171,Priya Sharma,Udaipur,Rajasthan,20
+1172,Ananya Yadav,Jaipur,Rajasthan,48
+1173,Neha Kumar,Udaipur,Rajasthan,57
+1174,Sneha Verma,Mumbai,Maharashtra,54
+1175,Pooja Patel,Chandigarh,Chandigarh,53
+1176,Kavya Mehta,Bhopal,Madhya Pradesh,41
+1177,Isha Singh,Udaipur,Rajasthan,48
+1178,Riya Agarwal,Jaipur,Rajasthan,23
+1179,Simran Joshi,Mumbai,Maharashtra,19
+1180,Meera Gupta,Kolkata,West Bengal,37
+1181,Aarav Sharma,Bengaluru,Karnataka,45
+1182,Vivaan Yadav,Chandigarh,Chandigarh,28
+1183,Aditya Kumar,Bhopal,Madhya Pradesh,21
+1184,Arjun Verma,Bengaluru,Karnataka,32
+1185,Rahul Patel,Ahmedabad,Gujarat,23
+1186,Amit Mehta,Chennai,Tamil Nadu,47
+1187,Rohan Singh,Chandigarh,Chandigarh,55
+1188,Karan Agarwal,Chandigarh,Chandigarh,19
+1189,Vikas Joshi,Kolkata,West Bengal,32
+1190,Ankit Gupta,Kolkata,West Bengal,28
+1191,Priya Sharma,Lucknow,Uttar Pradesh,25
+1192,Ananya Yadav,Indore,Madhya Pradesh,43
+1193,Neha Kumar,Udaipur,Rajasthan,22
+1194,Sneha Verma,Chandigarh,Chandigarh,23
+1195,Pooja Patel,Bengaluru,Karnataka,43
+1196,Kavya Mehta,Jaipur,Rajasthan,21
+1197,Isha Singh,Delhi,Delhi,36
+1198,Riya Agarwal,Indore,Madhya Pradesh,37
+1199,Simran Joshi,Delhi,Delhi,50
+1200,Meera Gupta,Bhopal,Madhya Pradesh,37
+1201,Aarav Sharma,Mumbai,Maharashtra,29
+1202,Vivaan Yadav,Bengaluru,Karnataka,18
+1203,Aditya Kumar,Bengaluru,Karnataka,43
+1204,Arjun Verma,Indore,Madhya Pradesh,31
+1205,Rahul Patel,Chandigarh,Chandigarh,55
+1206,Amit Mehta,Ahmedabad,Gujarat,54
+1207,Rohan Singh,Indore,Madhya Pradesh,28
+1208,Karan Agarwal,Delhi,Delhi,53
+1209,Vikas Joshi,Indore,Madhya Pradesh,30
+1210,Ankit Gupta,Bengaluru,Karnataka,60
+1211,Priya Sharma,Ahmedabad,Gujarat,20
+1212,Ananya Yadav,Udaipur,Rajasthan,50
+1213,Neha Kumar,Pune,Maharashtra,23
+1214,Sneha Verma,Lucknow,Uttar Pradesh,27
+1215,Pooja Patel,Jodhpur,Rajasthan,22
+1216,Kavya Mehta,Kolkata,West Bengal,40
+1217,Isha Singh,Indore,Madhya Pradesh,27
+1218,Riya Agarwal,Bhopal,Madhya Pradesh,19
+1219,Simran Joshi,Chennai,Tamil Nadu,30
+1220,Meera Gupta,Mumbai,Maharashtra,57
+1221,Aarav Sharma,Pune,Maharashtra,19
+1222,Vivaan Yadav,Lucknow,Uttar Pradesh,37
+1223,Aditya Kumar,Lucknow,Uttar Pradesh,18
+1224,Arjun Verma,Lucknow,Uttar Pradesh,54
+1225,Rahul Patel,Lucknow,Uttar Pradesh,26
+1226,Amit Mehta,Delhi,Delhi,34
+1227,Rohan Singh,Bhopal,Madhya Pradesh,26
+1228,Karan Agarwal,Bhopal,Madhya Pradesh,28
+1229,Vikas Joshi,Ahmedabad,Gujarat,32
+1230,Ankit Gupta,Kolkata,West Bengal,41
+1231,Priya Sharma,Bengaluru,Karnataka,55
+1232,Ananya Yadav,Lucknow,Uttar Pradesh,52
+1233,Neha Kumar,Chennai,Tamil Nadu,47
+1234,Sneha Verma,Bengaluru,Karnataka,48
+1235,Pooja Patel,Bhopal,Madhya Pradesh,22
+1236,Kavya Mehta,Jaipur,Rajasthan,31
+1237,Isha Singh,Jaipur,Rajasthan,28
+1238,Riya Agarwal,Chennai,Tamil Nadu,26
+1239,Simran Joshi,Ahmedabad,Gujarat,51
+1240,Meera Gupta,Bhopal,Madhya Pradesh,29
+1241,Aarav Sharma,Chennai,Tamil Nadu,52
+1242,Vivaan Yadav,Delhi,Delhi,52
+1243,Aditya Kumar,Indore,Madhya Pradesh,18
+1244,Arjun Verma,Chennai,Tamil Nadu,57
+1245,Rahul Patel,Udaipur,Rajasthan,39
+1246,Amit Mehta,Bengaluru,Karnataka,46
+1247,Rohan Singh,Pune,Maharashtra,25
+1248,Karan Agarwal,Hyderabad,Telangana,28
+1249,Vikas Joshi,Ahmedabad,Gujarat,58
+1250,Ankit Gupta,Chennai,Tamil Nadu,54
+1251,Priya Sharma,Bhopal,Madhya Pradesh,31
+1252,Ananya Yadav,Mumbai,Maharashtra,47
+1253,Neha Kumar,Jaipur,Rajasthan,52
+1254,Sneha Verma,Udaipur,Rajasthan,38
+1255,Pooja Patel,Kolkata,West Bengal,54
+1256,Kavya Mehta,Lucknow,Uttar Pradesh,22
+1257,Isha Singh,Hyderabad,Telangana,36
+1258,Riya Agarwal,Chandigarh,Chandigarh,31
+1259,Simran Joshi,Ahmedabad,Gujarat,43
+1260,Meera Gupta,Pune,Maharashtra,21
+1261,Aarav Sharma,Hyderabad,Telangana,42
+1262,Vivaan Yadav,Chennai,Tamil Nadu,59
+1263,Aditya Kumar,Delhi,Delhi,42
+1264,Arjun Verma,Jaipur,Rajasthan,35
+1265,Rahul Patel,Bhopal,Madhya Pradesh,57
+1266,Amit Mehta,Jaipur,Rajasthan,25
+1267,Rohan Singh,Kolkata,West Bengal,56
+1268,Karan Agarwal,Delhi,Delhi,57
+1269,Vikas Joshi,Lucknow,Uttar Pradesh,31
+1270,Ankit Gupta,Bhopal,Madhya Pradesh,49
+1271,Priya Sharma,Bengaluru,Karnataka,55
+1272,Ananya Yadav,Jodhpur,Rajasthan,50
+1273,Neha Kumar,Udaipur,Rajasthan,40
+1274,Sneha Verma,Jaipur,Rajasthan,32
+1275,Pooja Patel,Mumbai,Maharashtra,50
+1276,Kavya Mehta,Jaipur,Rajasthan,42
+1277,Isha Singh,Hyderabad,Telangana,34
+1278,Riya Agarwal,Jaipur,Rajasthan,50
+1279,Simran Joshi,Ahmedabad,Gujarat,19
+1280,Meera Gupta,Jaipur,Rajasthan,31
+1281,Aarav Sharma,Jodhpur,Rajasthan,57
+1282,Vivaan Yadav,Jodhpur,Rajasthan,57
+1283,Aditya Kumar,Lucknow,Uttar Pradesh,56
+1284,Arjun Verma,Pune,Maharashtra,23
+1285,Rahul Patel,Bengaluru,Karnataka,23
+1286,Amit Mehta,Mumbai,Maharashtra,20
+1287,Rohan Singh,Jaipur,Rajasthan,24
+1288,Karan Agarwal,Jaipur,Rajasthan,25
+1289,Vikas Joshi,Udaipur,Rajasthan,59
+1290,Ankit Gupta,Bhopal,Madhya Pradesh,32
+1291,Priya Sharma,Jodhpur,Rajasthan,46
+1292,Ananya Yadav,Mumbai,Maharashtra,50
+1293,Neha Kumar,Lucknow,Uttar Pradesh,47
+1294,Sneha Verma,Kolkata,West Bengal,56
+1295,Pooja Patel,Pune,Maharashtra,44
+1296,Kavya Mehta,Bengaluru,Karnataka,53
+1297,Isha Singh,Delhi,Delhi,46
+1298,Riya Agarwal,Bengaluru,Karnataka,55
+1299,Simran Joshi,Ahmedabad,Gujarat,50
+1300,Meera Gupta,Hyderabad,Telangana,54
+1301,Aarav Sharma,Ahmedabad,Gujarat,44
+1302,Vivaan Yadav,Jaipur,Rajasthan,50
+1303,Aditya Kumar,Chandigarh,Chandigarh,21
+1304,Arjun Verma,Pune,Maharashtra,39
+1305,Rahul Patel,Hyderabad,Telangana,19
+1306,Amit Mehta,Mumbai,Maharashtra,27
+1307,Rohan Singh,Delhi,Delhi,22
+1308,Karan Agarwal,Jodhpur,Rajasthan,27
+1309,Vikas Joshi,Pune,Maharashtra,50
+1310,Ankit Gupta,Pune,Maharashtra,55
+1311,Priya Sharma,Ahmedabad,Gujarat,30
+1312,Ananya Yadav,Chandigarh,Chandigarh,48
+1313,Neha Kumar,Jaipur,Rajasthan,53
+1314,Sneha Verma,Chennai,Tamil Nadu,41
+1315,Pooja Patel,Lucknow,Uttar Pradesh,32
+1316,Kavya Mehta,Ahmedabad,Gujarat,46
+1317,Isha Singh,Pune,Maharashtra,25
+1318,Riya Agarwal,Indore,Madhya Pradesh,22
+1319,Simran Joshi,Udaipur,Rajasthan,46
+1320,Meera Gupta,Delhi,Delhi,21
+1321,Aarav Sharma,Lucknow,Uttar Pradesh,29
+1322,Vivaan Yadav,Ahmedabad,Gujarat,19
+1323,Aditya Kumar,Delhi,Delhi,44
+1324,Arjun Verma,Udaipur,Rajasthan,48
+1325,Rahul Patel,Kolkata,West Bengal,53
+1326,Amit Mehta,Udaipur,Rajasthan,53
+1327,Rohan Singh,Chandigarh,Chandigarh,43
+1328,Karan Agarwal,Udaipur,Rajasthan,60
+1329,Vikas Joshi,Delhi,Delhi,44
+1330,Ankit Gupta,Bengaluru,Karnataka,22
+1331,Priya Sharma,Delhi,Delhi,37
+1332,Ananya Yadav,Chennai,Tamil Nadu,28
+1333,Neha Kumar,Jaipur,Rajasthan,27
+1334,Sneha Verma,Hyderabad,Telangana,57
+1335,Pooja Patel,Bengaluru,Karnataka,55
+1336,Kavya Mehta,Jodhpur,Rajasthan,23
+1337,Isha Singh,Hyderabad,Telangana,25
+1338,Riya Agarwal,Jaipur,Rajasthan,40
+1339,Simran Joshi,Ahmedabad,Gujarat,43
+1340,Meera Gupta,Lucknow,Uttar Pradesh,60
+1341,Aarav Sharma,Chennai,Tamil Nadu,29
+1342,Vivaan Yadav,Chennai,Tamil Nadu,43
+1343,Aditya Kumar,Jodhpur,Rajasthan,30
+1344,Arjun Verma,Bengaluru,Karnataka,57
+1345,Rahul Patel,Chandigarh,Chandigarh,35
+1346,Amit Mehta,Bhopal,Madhya Pradesh,42
+1347,Rohan Singh,Kolkata,West Bengal,50
+1348,Karan Agarwal,Udaipur,Rajasthan,57
+1349,Vikas Joshi,Bengaluru,Karnataka,60
+1350,Ankit Gupta,Lucknow,Uttar Pradesh,29
+1351,Priya Sharma,Kolkata,West Bengal,53
+1352,Ananya Yadav,Chennai,Tamil Nadu,21
+1353,Neha Kumar,Delhi,Delhi,22
+1354,Sneha Verma,Lucknow,Uttar Pradesh,54
+1355,Pooja Patel,Jaipur,Rajasthan,25
+1356,Kavya Mehta,Jodhpur,Rajasthan,59
+1357,Isha Singh,Jaipur,Rajasthan,45
+1358,Riya Agarwal,Bhopal,Madhya Pradesh,48
+1359,Simran Joshi,Lucknow,Uttar Pradesh,26
+1360,Meera Gupta,Mumbai,Maharashtra,46
+1361,Aarav Sharma,Mumbai,Maharashtra,31
+1362,Vivaan Yadav,Ahmedabad,Gujarat,57
+1363,Aditya Kumar,Bengaluru,Karnataka,58
+1364,Arjun Verma,Chennai,Tamil Nadu,39
+1365,Rahul Patel,Chennai,Tamil Nadu,28
+1366,Amit Mehta,Udaipur,Rajasthan,40
+1367,Rohan Singh,Udaipur,Rajasthan,18
+1368,Karan Agarwal,Udaipur,Rajasthan,54
+1369,Vikas Joshi,Delhi,Delhi,38
+1370,Ankit Gupta,Hyderabad,Telangana,43
+1371,Priya Sharma,Pune,Maharashtra,53
+1372,Ananya Yadav,Hyderabad,Telangana,40
+1373,Neha Kumar,Jaipur,Rajasthan,18
+1374,Sneha Verma,Hyderabad,Telangana,57
+1375,Pooja Patel,Delhi,Delhi,32
+1376,Kavya Mehta,Ahmedabad,Gujarat,38
+1377,Isha Singh,Jaipur,Rajasthan,26
+1378,Riya Agarwal,Hyderabad,Telangana,26
+1379,Simran Joshi,Delhi,Delhi,27
+1380,Meera Gupta,Pune,Maharashtra,43
+1381,Aarav Sharma,Hyderabad,Telangana,58
+1382,Vivaan Yadav,Delhi,Delhi,52
+1383,Aditya Kumar,Bhopal,Madhya Pradesh,42
+1384,Arjun Verma,Udaipur,Rajasthan,43
+1385,Rahul Patel,Bhopal,Madhya Pradesh,28
+1386,Amit Mehta,Chennai,Tamil Nadu,55
+1387,Rohan Singh,Udaipur,Rajasthan,19
+1388,Karan Agarwal,Chennai,Tamil Nadu,24
+1389,Vikas Joshi,Indore,Madhya Pradesh,35
+1390,Ankit Gupta,Jodhpur,Rajasthan,44
+1391,Priya Sharma,Bhopal,Madhya Pradesh,51
+1392,Ananya Yadav,Jodhpur,Rajasthan,44
+1393,Neha Kumar,Jodhpur,Rajasthan,34
+1394,Sneha Verma,Pune,Maharashtra,60
+1395,Pooja Patel,Udaipur,Rajasthan,41
+1396,Kavya Mehta,Indore,Madhya Pradesh,42
+1397,Isha Singh,Chennai,Tamil Nadu,24
+1398,Riya Agarwal,Delhi,Delhi,23
+1399,Simran Joshi,Jaipur,Rajasthan,41
+1400,Meera Gupta,Delhi,Delhi,50
+1401,Aarav Sharma,Jaipur,Rajasthan,46
+1402,Vivaan Yadav,Bhopal,Madhya Pradesh,60
+1403,Aditya Kumar,Mumbai,Maharashtra,39
+1404,Arjun Verma,Delhi,Delhi,43
+1405,Rahul Patel,Hyderabad,Telangana,45
+1406,Amit Mehta,Hyderabad,Telangana,38
+1407,Rohan Singh,Bengaluru,Karnataka,24
+1408,Karan Agarwal,Udaipur,Rajasthan,34
+1409,Vikas Joshi,Jaipur,Rajasthan,37
+1410,Ankit Gupta,Jaipur,Rajasthan,58
+1411,Priya Sharma,Lucknow,Uttar Pradesh,37
+1412,Ananya Yadav,Ahmedabad,Gujarat,39
+1413,Neha Kumar,Udaipur,Rajasthan,45
+1414,Sneha Verma,Pune,Maharashtra,57
+1415,Pooja Patel,Bengaluru,Karnataka,24
+1416,Kavya Mehta,Pune,Maharashtra,18
+1417,Isha Singh,Bhopal,Madhya Pradesh,49
+1418,Riya Agarwal,Bhopal,Madhya Pradesh,30
+1419,Simran Joshi,Pune,Maharashtra,47
+1420,Meera Gupta,Pune,Maharashtra,40
+1421,Aarav Sharma,Indore,Madhya Pradesh,36
+1422,Vivaan Yadav,Udaipur,Rajasthan,49
+1423,Aditya Kumar,Pune,Maharashtra,47
+1424,Arjun Verma,Hyderabad,Telangana,46
+1425,Rahul Patel,Ahmedabad,Gujarat,46
+1426,Amit Mehta,Ahmedabad,Gujarat,47
+1427,Rohan Singh,Jodhpur,Rajasthan,33
+1428,Karan Agarwal,Mumbai,Maharashtra,57
+1429,Vikas Joshi,Bhopal,Madhya Pradesh,36
+1430,Ankit Gupta,Jaipur,Rajasthan,35
+1431,Priya Sharma,Lucknow,Uttar Pradesh,18
+1432,Ananya Yadav,Chandigarh,Chandigarh,31
+1433,Neha Kumar,Jaipur,Rajasthan,19
+1434,Sneha Verma,Mumbai,Maharashtra,45
+1435,Pooja Patel,Lucknow,Uttar Pradesh,47
+1436,Kavya Mehta,Indore,Madhya Pradesh,55
+1437,Isha Singh,Udaipur,Rajasthan,21
+1438,Riya Agarwal,Delhi,Delhi,18
+1439,Simran Joshi,Udaipur,Rajasthan,25
+1440,Meera Gupta,Jaipur,Rajasthan,46
+1441,Aarav Sharma,Jaipur,Rajasthan,56
+1442,Vivaan Yadav,Lucknow,Uttar Pradesh,20
+1443,Aditya Kumar,Lucknow,Uttar Pradesh,49
+1444,Arjun Verma,Bhopal,Madhya Pradesh,27
+1445,Rahul Patel,Indore,Madhya Pradesh,27
+1446,Amit Mehta,Bhopal,Madhya Pradesh,36
+1447,Rohan Singh,Mumbai,Maharashtra,51
+1448,Karan Agarwal,Pune,Maharashtra,50
+1449,Vikas Joshi,Udaipur,Rajasthan,40
+1450,Ankit Gupta,Lucknow,Uttar Pradesh,45
+1451,Priya Sharma,Chennai,Tamil Nadu,49
+1452,Ananya Yadav,Mumbai,Maharashtra,24
+1453,Neha Kumar,Hyderabad,Telangana,46
+1454,Sneha Verma,Indore,Madhya Pradesh,25
+1455,Pooja Patel,Jaipur,Rajasthan,18
+1456,Kavya Mehta,Bhopal,Madhya Pradesh,20
+1457,Isha Singh,Mumbai,Maharashtra,41
+1458,Riya Agarwal,Chandigarh,Chandigarh,40
+1459,Simran Joshi,Udaipur,Rajasthan,25
+1460,Meera Gupta,Lucknow,Uttar Pradesh,54
+1461,Aarav Sharma,Jaipur,Rajasthan,20
+1462,Vivaan Yadav,Delhi,Delhi,50
+1463,Aditya Kumar,Chandigarh,Chandigarh,45
+1464,Arjun Verma,Indore,Madhya Pradesh,25
+1465,Rahul Patel,Mumbai,Maharashtra,51
+1466,Amit Mehta,Bengaluru,Karnataka,52
+1467,Rohan Singh,Jaipur,Rajasthan,49
+1468,Karan Agarwal,Udaipur,Rajasthan,41
+1469,Vikas Joshi,Jodhpur,Rajasthan,31
+1470,Ankit Gupta,Chennai,Tamil Nadu,49
+1471,Priya Sharma,Kolkata,West Bengal,60
+1472,Ananya Yadav,Chandigarh,Chandigarh,33
+1473,Neha Kumar,Pune,Maharashtra,21
+1474,Sneha Verma,Kolkata,West Bengal,54
+1475,Pooja Patel,Udaipur,Rajasthan,38
+1476,Kavya Mehta,Hyderabad,Telangana,31
+1477,Isha Singh,Bhopal,Madhya Pradesh,48
+1478,Riya Agarwal,Hyderabad,Telangana,35
+1479,Simran Joshi,Jodhpur,Rajasthan,24
+1480,Meera Gupta,Chandigarh,Chandigarh,27
+1481,Aarav Sharma,Pune,Maharashtra,24
+1482,Vivaan Yadav,Bengaluru,Karnataka,50
+1483,Aditya Kumar,Jodhpur,Rajasthan,40
+1484,Arjun Verma,Chandigarh,Chandigarh,38
+1485,Rahul Patel,Ahmedabad,Gujarat,36
+1486,Amit Mehta,Kolkata,West Bengal,36
+1487,Rohan Singh,Jodhpur,Rajasthan,53
+1488,Karan Agarwal,Kolkata,West Bengal,46
+1489,Vikas Joshi,Jaipur,Rajasthan,35
+1490,Ankit Gupta,Hyderabad,Telangana,19
+1491,Priya Sharma,Jaipur,Rajasthan,18
+1492,Ananya Yadav,Chennai,Tamil Nadu,22
+1493,Neha Kumar,Ahmedabad,Gujarat,37
+1494,Sneha Verma,Pune,Maharashtra,28
+1495,Pooja Patel,Bengaluru,Karnataka,59
+1496,Kavya Mehta,Indore,Madhya Pradesh,19
+1497,Isha Singh,Kolkata,West Bengal,20
+1498,Riya Agarwal,Bengaluru,Karnataka,40
+1499,Simran Joshi,Kolkata,West Bengal,29
+1500,Meera Gupta,Udaipur,Rajasthan,37
+1501,Aarav Sharma,Jodhpur,Rajasthan,22
+1502,Vivaan Yadav,Chennai,Tamil Nadu,54
+1503,Aditya Kumar,Hyderabad,Telangana,55
+1504,Arjun Verma,Indore,Madhya Pradesh,47
+1505,Rahul Patel,Lucknow,Uttar Pradesh,26
+1506,Amit Mehta,Kolkata,West Bengal,51
+1507,Rohan Singh,Bengaluru,Karnataka,52
+1508,Karan Agarwal,Chennai,Tamil Nadu,39
+1509,Vikas Joshi,Delhi,Delhi,41
+1510,Ankit Gupta,Indore,Madhya Pradesh,34
+1511,Priya Sharma,Delhi,Delhi,27
+1512,Ananya Yadav,Jaipur,Rajasthan,47
+1513,Neha Kumar,Hyderabad,Telangana,40
+1514,Sneha Verma,Bhopal,Madhya Pradesh,49
+1515,Pooja Patel,Bhopal,Madhya Pradesh,34
+1516,Kavya Mehta,Lucknow,Uttar Pradesh,34
+1517,Isha Singh,Udaipur,Rajasthan,31
+1518,Riya Agarwal,Bengaluru,Karnataka,26
+1519,Simran Joshi,Chandigarh,Chandigarh,57
+1520,Meera Gupta,Lucknow,Uttar Pradesh,19
+1521,Aarav Sharma,Jodhpur,Rajasthan,42
+1522,Vivaan Yadav,Jodhpur,Rajasthan,56
+1523,Aditya Kumar,Bengaluru,Karnataka,26
+1524,Arjun Verma,Chandigarh,Chandigarh,39
+1525,Rahul Patel,Pune,Maharashtra,60
+1526,Amit Mehta,Udaipur,Rajasthan,21
+1527,Rohan Singh,Chennai,Tamil Nadu,43
+1528,Karan Agarwal,Kolkata,West Bengal,46
+1529,Vikas Joshi,Chandigarh,Chandigarh,51
+1530,Ankit Gupta,Bhopal,Madhya Pradesh,40
+1531,Priya Sharma,Indore,Madhya Pradesh,54
+1532,Ananya Yadav,Pune,Maharashtra,28
+1533,Neha Kumar,Kolkata,West Bengal,23
+1534,Sneha Verma,Kolkata,West Bengal,35
+1535,Pooja Patel,Pune,Maharashtra,38
+1536,Kavya Mehta,Jaipur,Rajasthan,59
+1537,Isha Singh,Delhi,Delhi,53
+1538,Riya Agarwal,Kolkata,West Bengal,58
+1539,Simran Joshi,Pune,Maharashtra,55
+1540,Meera Gupta,Chandigarh,Chandigarh,51
+1541,Aarav Sharma,Pune,Maharashtra,34
+1542,Vivaan Yadav,Ahmedabad,Gujarat,54
+1543,Aditya Kumar,Lucknow,Uttar Pradesh,42
+1544,Arjun Verma,Mumbai,Maharashtra,55
+1545,Rahul Patel,Jaipur,Rajasthan,29
+1546,Amit Mehta,Hyderabad,Telangana,40
+1547,Rohan Singh,Mumbai,Maharashtra,59
+1548,Karan Agarwal,Lucknow,Uttar Pradesh,39
+1549,Vikas Joshi,Lucknow,Uttar Pradesh,38
+1550,Ankit Gupta,Lucknow,Uttar Pradesh,44
+1551,Priya Sharma,Mumbai,Maharashtra,48
+1552,Ananya Yadav,Bengaluru,Karnataka,23
+1553,Neha Kumar,Delhi,Delhi,44
+1554,Sneha Verma,Pune,Maharashtra,57
+1555,Pooja Patel,Indore,Madhya Pradesh,51
+1556,Kavya Mehta,Delhi,Delhi,29
+1557,Isha Singh,Bhopal,Madhya Pradesh,24
+1558,Riya Agarwal,Chandigarh,Chandigarh,27
+1559,Simran Joshi,Udaipur,Rajasthan,34
+1560,Meera Gupta,Bengaluru,Karnataka,43
+1561,Aarav Sharma,Hyderabad,Telangana,38
+1562,Vivaan Yadav,Delhi,Delhi,45
+1563,Aditya Kumar,Indore,Madhya Pradesh,19
+1564,Arjun Verma,Jodhpur,Rajasthan,60
+1565,Rahul Patel,Lucknow,Uttar Pradesh,18
+1566,Amit Mehta,Kolkata,West Bengal,53
+1567,Rohan Singh,Bhopal,Madhya Pradesh,43
+1568,Karan Agarwal,Udaipur,Rajasthan,46
+1569,Vikas Joshi,Jaipur,Rajasthan,38
+1570,Ankit Gupta,Hyderabad,Telangana,28
+1571,Priya Sharma,Chandigarh,Chandigarh,57
+1572,Ananya Yadav,Udaipur,Rajasthan,28
+1573,Neha Kumar,Lucknow,Uttar Pradesh,53
+1574,Sneha Verma,Kolkata,West Bengal,56
+1575,Pooja Patel,Bengaluru,Karnataka,57
+1576,Kavya Mehta,Kolkata,West Bengal,52
+1577,Isha Singh,Mumbai,Maharashtra,51
+1578,Riya Agarwal,Kolkata,West Bengal,41
+1579,Simran Joshi,Mumbai,Maharashtra,39
+1580,Meera Gupta,Bhopal,Madhya Pradesh,22
+1581,Aarav Sharma,Bengaluru,Karnataka,50
+1582,Vivaan Yadav,Chandigarh,Chandigarh,53
+1583,Aditya Kumar,Chennai,Tamil Nadu,37
+1584,Arjun Verma,Lucknow,Uttar Pradesh,36
+1585,Rahul Patel,Mumbai,Maharashtra,52
+1586,Amit Mehta,Jaipur,Rajasthan,60
+1587,Rohan Singh,Kolkata,West Bengal,34
+1588,Karan Agarwal,Kolkata,West Bengal,60
+1589,Vikas Joshi,Jaipur,Rajasthan,51
+1590,Ankit Gupta,Chandigarh,Chandigarh,26
+1591,Priya Sharma,Jodhpur,Rajasthan,43
+1592,Ananya Yadav,Bhopal,Madhya Pradesh,19
+1593,Neha Kumar,Pune,Maharashtra,26
+1594,Sneha Verma,Chennai,Tamil Nadu,26
+1595,Pooja Patel,Hyderabad,Telangana,57
+1596,Kavya Mehta,Indore,Madhya Pradesh,34
+1597,Isha Singh,Mumbai,Maharashtra,18
+1598,Riya Agarwal,Jaipur,Rajasthan,42
+1599,Simran Joshi,Indore,Madhya Pradesh,60
+1600,Meera Gupta,Bengaluru,Karnataka,57
+1601,Aarav Sharma,Chandigarh,Chandigarh,59
+1602,Vivaan Yadav,Mumbai,Maharashtra,42
+1603,Aditya Kumar,Pune,Maharashtra,56
+1604,Arjun Verma,Indore,Madhya Pradesh,52
+1605,Rahul Patel,Bengaluru,Karnataka,20
+1606,Amit Mehta,Udaipur,Rajasthan,54
+1607,Rohan Singh,Lucknow,Uttar Pradesh,47
+1608,Karan Agarwal,Kolkata,West Bengal,55
+1609,Vikas Joshi,Udaipur,Rajasthan,51
+1610,Ankit Gupta,Mumbai,Maharashtra,29
+1611,Priya Sharma,Pune,Maharashtra,36
+1612,Ananya Yadav,Chennai,Tamil Nadu,54
+1613,Neha Kumar,Indore,Madhya Pradesh,34
+1614,Sneha Verma,Bhopal,Madhya Pradesh,27
+1615,Pooja Patel,Lucknow,Uttar Pradesh,29
+1616,Kavya Mehta,Mumbai,Maharashtra,33
+1617,Isha Singh,Chandigarh,Chandigarh,41
+1618,Riya Agarwal,Jaipur,Rajasthan,36
+1619,Simran Joshi,Bhopal,Madhya Pradesh,25
+1620,Meera Gupta,Bhopal,Madhya Pradesh,48
+1621,Aarav Sharma,Bhopal,Madhya Pradesh,38
+1622,Vivaan Yadav,Delhi,Delhi,34
+1623,Aditya Kumar,Mumbai,Maharashtra,40
+1624,Arjun Verma,Lucknow,Uttar Pradesh,54
+1625,Rahul Patel,Kolkata,West Bengal,33
+1626,Amit Mehta,Kolkata,West Bengal,23
+1627,Rohan Singh,Mumbai,Maharashtra,25
+1628,Karan Agarwal,Bengaluru,Karnataka,42
+1629,Vikas Joshi,Delhi,Delhi,35
+1630,Ankit Gupta,Jaipur,Rajasthan,42
+1631,Priya Sharma,Bhopal,Madhya Pradesh,29
+1632,Ananya Yadav,Bhopal,Madhya Pradesh,32
+1633,Neha Kumar,Mumbai,Maharashtra,43
+1634,Sneha Verma,Bengaluru,Karnataka,58
+1635,Pooja Patel,Kolkata,West Bengal,43
+1636,Kavya Mehta,Kolkata,West Bengal,49
+1637,Isha Singh,Pune,Maharashtra,27
+1638,Riya Agarwal,Mumbai,Maharashtra,33
+1639,Simran Joshi,Delhi,Delhi,24
+1640,Meera Gupta,Jodhpur,Rajasthan,34
+1641,Aarav Sharma,Delhi,Delhi,40
+1642,Vivaan Yadav,Chandigarh,Chandigarh,43
+1643,Aditya Kumar,Kolkata,West Bengal,38
+1644,Arjun Verma,Kolkata,West Bengal,39
+1645,Rahul Patel,Udaipur,Rajasthan,24
+1646,Amit Mehta,Kolkata,West Bengal,31
+1647,Rohan Singh,Jaipur,Rajasthan,32
+1648,Karan Agarwal,Hyderabad,Telangana,24
+1649,Vikas Joshi,Mumbai,Maharashtra,26
+1650,Ankit Gupta,Indore,Madhya Pradesh,25
+1651,Priya Sharma,Delhi,Delhi,40
+1652,Ananya Yadav,Hyderabad,Telangana,46
+1653,Neha Kumar,Bengaluru,Karnataka,35
+1654,Sneha Verma,Jodhpur,Rajasthan,48
+1655,Pooja Patel,Jaipur,Rajasthan,47
+1656,Kavya Mehta,Lucknow,Uttar Pradesh,56
+1657,Isha Singh,Ahmedabad,Gujarat,52
+1658,Riya Agarwal,Delhi,Delhi,35
+1659,Simran Joshi,Hyderabad,Telangana,59
+1660,Meera Gupta,Lucknow,Uttar Pradesh,56
+1661,Aarav Sharma,Jodhpur,Rajasthan,34
+1662,Vivaan Yadav,Udaipur,Rajasthan,31
+1663,Aditya Kumar,Lucknow,Uttar Pradesh,48
+1664,Arjun Verma,Jaipur,Rajasthan,41
+1665,Rahul Patel,Jaipur,Rajasthan,52
+1666,Amit Mehta,Indore,Madhya Pradesh,51
+1667,Rohan Singh,Udaipur,Rajasthan,20
+1668,Karan Agarwal,Ahmedabad,Gujarat,54
+1669,Vikas Joshi,Mumbai,Maharashtra,60
+1670,Ankit Gupta,Lucknow,Uttar Pradesh,57
+1671,Priya Sharma,Udaipur,Rajasthan,43
+1672,Ananya Yadav,Jaipur,Rajasthan,40
+1673,Neha Kumar,Jaipur,Rajasthan,56
+1674,Sneha Verma,Hyderabad,Telangana,32
+1675,Pooja Patel,Kolkata,West Bengal,21
+1676,Kavya Mehta,Ahmedabad,Gujarat,46
+1677,Isha Singh,Lucknow,Uttar Pradesh,39
+1678,Riya Agarwal,Indore,Madhya Pradesh,42
+1679,Simran Joshi,Indore,Madhya Pradesh,30
+1680,Meera Gupta,Lucknow,Uttar Pradesh,35
+1681,Aarav Sharma,Chandigarh,Chandigarh,50
+1682,Vivaan Yadav,Bhopal,Madhya Pradesh,33
+1683,Aditya Kumar,Jodhpur,Rajasthan,59
+1684,Arjun Verma,Indore,Madhya Pradesh,19
+1685,Rahul Patel,Udaipur,Rajasthan,52
+1686,Amit Mehta,Jodhpur,Rajasthan,59
+1687,Rohan Singh,Udaipur,Rajasthan,51
+1688,Karan Agarwal,Bengaluru,Karnataka,47
+1689,Vikas Joshi,Jaipur,Rajasthan,30
+1690,Ankit Gupta,Kolkata,West Bengal,30
+1691,Priya Sharma,Hyderabad,Telangana,35
+1692,Ananya Yadav,Indore,Madhya Pradesh,49
+1693,Neha Kumar,Kolkata,West Bengal,49
+1694,Sneha Verma,Kolkata,West Bengal,52
+1695,Pooja Patel,Kolkata,West Bengal,56
+1696,Kavya Mehta,Bhopal,Madhya Pradesh,46
+1697,Isha Singh,Jodhpur,Rajasthan,46
+1698,Riya Agarwal,Udaipur,Rajasthan,33
+1699,Simran Joshi,Chennai,Tamil Nadu,27
+1700,Meera Gupta,Bengaluru,Karnataka,47
+1701,Aarav Sharma,Delhi,Delhi,42
+1702,Vivaan Yadav,Kolkata,West Bengal,56
+1703,Aditya Kumar,Mumbai,Maharashtra,37
+1704,Arjun Verma,Jodhpur,Rajasthan,22
+1705,Rahul Patel,Indore,Madhya Pradesh,18
+1706,Amit Mehta,Ahmedabad,Gujarat,47
+1707,Rohan Singh,Indore,Madhya Pradesh,20
+1708,Karan Agarwal,Hyderabad,Telangana,31
+1709,Vikas Joshi,Delhi,Delhi,47
+1710,Ankit Gupta,Chennai,Tamil Nadu,21
+1711,Priya Sharma,Mumbai,Maharashtra,35
+1712,Ananya Yadav,Indore,Madhya Pradesh,54
+1713,Neha Kumar,Chennai,Tamil Nadu,42
+1714,Sneha Verma,Delhi,Delhi,18
+1715,Pooja Patel,Kolkata,West Bengal,32
+1716,Kavya Mehta,Mumbai,Maharashtra,26
+1717,Isha Singh,Chennai,Tamil Nadu,32
+1718,Riya Agarwal,Hyderabad,Telangana,41
+1719,Simran Joshi,Udaipur,Rajasthan,21
+1720,Meera Gupta,Jaipur,Rajasthan,29
+1721,Aarav Sharma,Udaipur,Rajasthan,54
+1722,Vivaan Yadav,Delhi,Delhi,54
+1723,Aditya Kumar,Jodhpur,Rajasthan,60
+1724,Arjun Verma,Jaipur,Rajasthan,23
+1725,Rahul Patel,Bengaluru,Karnataka,56
+1726,Amit Mehta,Hyderabad,Telangana,41
+1727,Rohan Singh,Bengaluru,Karnataka,28
+1728,Karan Agarwal,Bhopal,Madhya Pradesh,30
+1729,Vikas Joshi,Mumbai,Maharashtra,51
+1730,Ankit Gupta,Lucknow,Uttar Pradesh,42
+1731,Priya Sharma,Jaipur,Rajasthan,24
+1732,Ananya Yadav,Bengaluru,Karnataka,21
+1733,Neha Kumar,Indore,Madhya Pradesh,25
+1734,Sneha Verma,Bengaluru,Karnataka,37
+1735,Pooja Patel,Chennai,Tamil Nadu,46
+1736,Kavya Mehta,Udaipur,Rajasthan,27
+1737,Isha Singh,Chennai,Tamil Nadu,60
+1738,Riya Agarwal,Bhopal,Madhya Pradesh,51
+1739,Simran Joshi,Jaipur,Rajasthan,43
+1740,Meera Gupta,Jaipur,Rajasthan,58
+1741,Aarav Sharma,Bhopal,Madhya Pradesh,20
+1742,Vivaan Yadav,Delhi,Delhi,23
+1743,Aditya Kumar,Chennai,Tamil Nadu,22
+1744,Arjun Verma,Pune,Maharashtra,22
+1745,Rahul Patel,Indore,Madhya Pradesh,40
+1746,Amit Mehta,Ahmedabad,Gujarat,26
+1747,Rohan Singh,Udaipur,Rajasthan,52
+1748,Karan Agarwal,Jaipur,Rajasthan,37
+1749,Vikas Joshi,Delhi,Delhi,59
+1750,Ankit Gupta,Lucknow,Uttar Pradesh,52
+1751,Priya Sharma,Indore,Madhya Pradesh,35
+1752,Ananya Yadav,Chennai,Tamil Nadu,34
+1753,Neha Kumar,Udaipur,Rajasthan,41
+1754,Sneha Verma,Lucknow,Uttar Pradesh,20
+1755,Pooja Patel,Chennai,Tamil Nadu,49
+1756,Kavya Mehta,Bengaluru,Karnataka,52
+1757,Isha Singh,Lucknow,Uttar Pradesh,55
+1758,Riya Agarwal,Bhopal,Madhya Pradesh,30
+1759,Simran Joshi,Chandigarh,Chandigarh,42
+1760,Meera Gupta,Delhi,Delhi,26
+1761,Aarav Sharma,Udaipur,Rajasthan,21
+1762,Vivaan Yadav,Kolkata,West Bengal,31
+1763,Aditya Kumar,Chandigarh,Chandigarh,54
+1764,Arjun Verma,Mumbai,Maharashtra,51
+1765,Rahul Patel,Mumbai,Maharashtra,28
+1766,Amit Mehta,Udaipur,Rajasthan,58
+1767,Rohan Singh,Lucknow,Uttar Pradesh,20
+1768,Karan Agarwal,Chennai,Tamil Nadu,45
+1769,Vikas Joshi,Delhi,Delhi,46
+1770,Ankit Gupta,Ahmedabad,Gujarat,26
+1771,Priya Sharma,Mumbai,Maharashtra,20
+1772,Ananya Yadav,Delhi,Delhi,42
+1773,Neha Kumar,Mumbai,Maharashtra,51
+1774,Sneha Verma,Bengaluru,Karnataka,29
+1775,Pooja Patel,Chennai,Tamil Nadu,59
+1776,Kavya Mehta,Bengaluru,Karnataka,26
+1777,Isha Singh,Indore,Madhya Pradesh,32
+1778,Riya Agarwal,Mumbai,Maharashtra,57
+1779,Simran Joshi,Kolkata,West Bengal,42
+1780,Meera Gupta,Kolkata,West Bengal,22
+1781,Aarav Sharma,Bengaluru,Karnataka,28
+1782,Vivaan Yadav,Bhopal,Madhya Pradesh,51
+1783,Aditya Kumar,Chandigarh,Chandigarh,41
+1784,Arjun Verma,Kolkata,West Bengal,32
+1785,Rahul Patel,Mumbai,Maharashtra,55
+1786,Amit Mehta,Udaipur,Rajasthan,25
+1787,Rohan Singh,Bengaluru,Karnataka,22
+1788,Karan Agarwal,Indore,Madhya Pradesh,43
+1789,Vikas Joshi,Ahmedabad,Gujarat,35
+1790,Ankit Gupta,Ahmedabad,Gujarat,23
+1791,Priya Sharma,Jodhpur,Rajasthan,54
+1792,Ananya Yadav,Chandigarh,Chandigarh,30
+1793,Neha Kumar,Lucknow,Uttar Pradesh,45
+1794,Sneha Verma,Chennai,Tamil Nadu,22
+1795,Pooja Patel,Kolkata,West Bengal,30
+1796,Kavya Mehta,Kolkata,West Bengal,34
+1797,Isha Singh,Lucknow,Uttar Pradesh,57
+1798,Riya Agarwal,Jaipur,Rajasthan,49
+1799,Simran Joshi,Indore,Madhya Pradesh,46
+1800,Meera Gupta,Pune,Maharashtra,20
+1801,Aarav Sharma,Bengaluru,Karnataka,57
+1802,Vivaan Yadav,Bhopal,Madhya Pradesh,51
+1803,Aditya Kumar,Indore,Madhya Pradesh,57
+1804,Arjun Verma,Hyderabad,Telangana,44
+1805,Rahul Patel,Kolkata,West Bengal,30
+1806,Amit Mehta,Chennai,Tamil Nadu,50
+1807,Rohan Singh,Jodhpur,Rajasthan,23
+1808,Karan Agarwal,Ahmedabad,Gujarat,41
+1809,Vikas Joshi,Kolkata,West Bengal,36
+1810,Ankit Gupta,Jodhpur,Rajasthan,33
+1811,Priya Sharma,Mumbai,Maharashtra,57
+1812,Ananya Yadav,Indore,Madhya Pradesh,45
+1813,Neha Kumar,Mumbai,Maharashtra,50
+1814,Sneha Verma,Pune,Maharashtra,58
+1815,Pooja Patel,Udaipur,Rajasthan,30
+1816,Kavya Mehta,Hyderabad,Telangana,60
+1817,Isha Singh,Indore,Madhya Pradesh,42
+1818,Riya Agarwal,Jaipur,Rajasthan,59
+1819,Simran Joshi,Pune,Maharashtra,53
+1820,Meera Gupta,Delhi,Delhi,44
+1821,Aarav Sharma,Jaipur,Rajasthan,55
+1822,Vivaan Yadav,Chandigarh,Chandigarh,24
+1823,Aditya Kumar,Bengaluru,Karnataka,22
+1824,Arjun Verma,Chennai,Tamil Nadu,60
+1825,Rahul Patel,Indore,Madhya Pradesh,48
+1826,Amit Mehta,Delhi,Delhi,40
+1827,Rohan Singh,Delhi,Delhi,59
+1828,Karan Agarwal,Pune,Maharashtra,27
+1829,Vikas Joshi,Lucknow,Uttar Pradesh,49
+1830,Ankit Gupta,Chandigarh,Chandigarh,60
+1831,Priya Sharma,Udaipur,Rajasthan,47
+1832,Ananya Yadav,Indore,Madhya Pradesh,56
+1833,Neha Kumar,Lucknow,Uttar Pradesh,48
+1834,Sneha Verma,Pune,Maharashtra,35
+1835,Pooja Patel,Bengaluru,Karnataka,53
+1836,Kavya Mehta,Ahmedabad,Gujarat,19
+1837,Isha Singh,Kolkata,West Bengal,31
+1838,Riya Agarwal,Kolkata,West Bengal,30
+1839,Simran Joshi,Udaipur,Rajasthan,46
+1840,Meera Gupta,Bengaluru,Karnataka,29
+1841,Aarav Sharma,Bhopal,Madhya Pradesh,56
+1842,Vivaan Yadav,Udaipur,Rajasthan,19
+1843,Aditya Kumar,Indore,Madhya Pradesh,49
+1844,Arjun Verma,Indore,Madhya Pradesh,30
+1845,Rahul Patel,Jodhpur,Rajasthan,44
+1846,Amit Mehta,Lucknow,Uttar Pradesh,58
+1847,Rohan Singh,Bhopal,Madhya Pradesh,34
+1848,Karan Agarwal,Kolkata,West Bengal,57
+1849,Vikas Joshi,Delhi,Delhi,48
+1850,Ankit Gupta,Lucknow,Uttar Pradesh,51
+1851,Priya Sharma,Hyderabad,Telangana,41
+1852,Ananya Yadav,Indore,Madhya Pradesh,52
+1853,Neha Kumar,Chandigarh,Chandigarh,23
+1854,Sneha Verma,Chennai,Tamil Nadu,36
+1855,Pooja Patel,Bengaluru,Karnataka,47
+1856,Kavya Mehta,Jaipur,Rajasthan,24
+1857,Isha Singh,Udaipur,Rajasthan,27
+1858,Riya Agarwal,Indore,Madhya Pradesh,58
+1859,Simran Joshi,Lucknow,Uttar Pradesh,49
+1860,Meera Gupta,Bhopal,Madhya Pradesh,51
+1861,Aarav Sharma,Chennai,Tamil Nadu,45
+1862,Vivaan Yadav,Chandigarh,Chandigarh,32
+1863,Aditya Kumar,Lucknow,Uttar Pradesh,47
+1864,Arjun Verma,Jaipur,Rajasthan,54
+1865,Rahul Patel,Chennai,Tamil Nadu,46
+1866,Amit Mehta,Hyderabad,Telangana,39
+1867,Rohan Singh,Jaipur,Rajasthan,21
+1868,Karan Agarwal,Pune,Maharashtra,37
+1869,Vikas Joshi,Mumbai,Maharashtra,49
+1870,Ankit Gupta,Pune,Maharashtra,53
+1871,Priya Sharma,Kolkata,West Bengal,21
+1872,Ananya Yadav,Lucknow,Uttar Pradesh,44
+1873,Neha Kumar,Indore,Madhya Pradesh,34
+1874,Sneha Verma,Indore,Madhya Pradesh,29
+1875,Pooja Patel,Indore,Madhya Pradesh,39
+1876,Kavya Mehta,Chandigarh,Chandigarh,34
+1877,Isha Singh,Mumbai,Maharashtra,27
+1878,Riya Agarwal,Pune,Maharashtra,18
+1879,Simran Joshi,Mumbai,Maharashtra,39
+1880,Meera Gupta,Ahmedabad,Gujarat,43
+1881,Aarav Sharma,Lucknow,Uttar Pradesh,35
+1882,Vivaan Yadav,Mumbai,Maharashtra,31
+1883,Aditya Kumar,Delhi,Delhi,46
+1884,Arjun Verma,Udaipur,Rajasthan,29
+1885,Rahul Patel,Udaipur,Rajasthan,53
+1886,Amit Mehta,Delhi,Delhi,52
+1887,Rohan Singh,Chennai,Tamil Nadu,29
+1888,Karan Agarwal,Jodhpur,Rajasthan,24
+1889,Vikas Joshi,Chandigarh,Chandigarh,46
+1890,Ankit Gupta,Chennai,Tamil Nadu,28
+1891,Priya Sharma,Jaipur,Rajasthan,50
+1892,Ananya Yadav,Bhopal,Madhya Pradesh,23
+1893,Neha Kumar,Chandigarh,Chandigarh,32
+1894,Sneha Verma,Chandigarh,Chandigarh,49
+1895,Pooja Patel,Jaipur,Rajasthan,28
+1896,Kavya Mehta,Mumbai,Maharashtra,40
+1897,Isha Singh,Pune,Maharashtra,43
+1898,Riya Agarwal,Pune,Maharashtra,51
+1899,Simran Joshi,Udaipur,Rajasthan,51
+1900,Meera Gupta,Bengaluru,Karnataka,46
+1901,Aarav Sharma,Chennai,Tamil Nadu,21
+1902,Vivaan Yadav,Ahmedabad,Gujarat,34
+1903,Aditya Kumar,Lucknow,Uttar Pradesh,52
+1904,Arjun Verma,Kolkata,West Bengal,30
+1905,Rahul Patel,Hyderabad,Telangana,58
+1906,Amit Mehta,Pune,Maharashtra,56
+1907,Rohan Singh,Lucknow,Uttar Pradesh,32
+1908,Karan Agarwal,Hyderabad,Telangana,46
+1909,Vikas Joshi,Lucknow,Uttar Pradesh,46
+1910,Ankit Gupta,Mumbai,Maharashtra,28
+1911,Priya Sharma,Hyderabad,Telangana,49
+1912,Ananya Yadav,Kolkata,West Bengal,19
+1913,Neha Kumar,Lucknow,Uttar Pradesh,31
+1914,Sneha Verma,Delhi,Delhi,37
+1915,Pooja Patel,Kolkata,West Bengal,39
+1916,Kavya Mehta,Hyderabad,Telangana,28
+1917,Isha Singh,Kolkata,West Bengal,44
+1918,Riya Agarwal,Lucknow,Uttar Pradesh,20
+1919,Simran Joshi,Jodhpur,Rajasthan,34
+1920,Meera Gupta,Lucknow,Uttar Pradesh,45
+1921,Aarav Sharma,Lucknow,Uttar Pradesh,46
+1922,Vivaan Yadav,Mumbai,Maharashtra,38
+1923,Aditya Kumar,Chennai,Tamil Nadu,33
+1924,Arjun Verma,Delhi,Delhi,54
+1925,Rahul Patel,Ahmedabad,Gujarat,37
+1926,Amit Mehta,Pune,Maharashtra,23
+1927,Rohan Singh,Chandigarh,Chandigarh,36
+1928,Karan Agarwal,Jaipur,Rajasthan,22
+1929,Vikas Joshi,Chennai,Tamil Nadu,20
+1930,Ankit Gupta,Jaipur,Rajasthan,18
+1931,Priya Sharma,Mumbai,Maharashtra,55
+1932,Ananya Yadav,Delhi,Delhi,32
+1933,Neha Kumar,Indore,Madhya Pradesh,51
+1934,Sneha Verma,Lucknow,Uttar Pradesh,52
+1935,Pooja Patel,Indore,Madhya Pradesh,42
+1936,Kavya Mehta,Indore,Madhya Pradesh,41
+1937,Isha Singh,Bhopal,Madhya Pradesh,29
+1938,Riya Agarwal,Udaipur,Rajasthan,35
+1939,Simran Joshi,Indore,Madhya Pradesh,32
+1940,Meera Gupta,Pune,Maharashtra,33
+1941,Aarav Sharma,Jodhpur,Rajasthan,44
+1942,Vivaan Yadav,Udaipur,Rajasthan,25
+1943,Aditya Kumar,Mumbai,Maharashtra,42
+1944,Arjun Verma,Chandigarh,Chandigarh,34
+1945,Rahul Patel,Chennai,Tamil Nadu,46
+1946,Amit Mehta,Jodhpur,Rajasthan,25
+1947,Rohan Singh,Kolkata,West Bengal,32
+1948,Karan Agarwal,Hyderabad,Telangana,44
+1949,Vikas Joshi,Bhopal,Madhya Pradesh,24
+1950,Ankit Gupta,Jodhpur,Rajasthan,20
+1951,Priya Sharma,Ahmedabad,Gujarat,46
+1952,Ananya Yadav,Indore,Madhya Pradesh,41
+1953,Neha Kumar,Mumbai,Maharashtra,20
+1954,Sneha Verma,Bengaluru,Karnataka,37
+1955,Pooja Patel,Hyderabad,Telangana,32
+1956,Kavya Mehta,Jaipur,Rajasthan,42
+1957,Isha Singh,Pune,Maharashtra,47
+1958,Riya Agarwal,Jaipur,Rajasthan,31
+1959,Simran Joshi,Jodhpur,Rajasthan,24
+1960,Meera Gupta,Chandigarh,Chandigarh,34
+1961,Aarav Sharma,Jaipur,Rajasthan,37
+1962,Vivaan Yadav,Ahmedabad,Gujarat,53
+1963,Aditya Kumar,Mumbai,Maharashtra,26
+1964,Arjun Verma,Kolkata,West Bengal,55
+1965,Rahul Patel,Chandigarh,Chandigarh,39
+1966,Amit Mehta,Chennai,Tamil Nadu,19
+1967,Rohan Singh,Pune,Maharashtra,41
+1968,Karan Agarwal,Ahmedabad,Gujarat,25
+1969,Vikas Joshi,Ahmedabad,Gujarat,28
+1970,Ankit Gupta,Jaipur,Rajasthan,30
+1971,Priya Sharma,Indore,Madhya Pradesh,34
+1972,Ananya Yadav,Jaipur,Rajasthan,25
+1973,Neha Kumar,Jodhpur,Rajasthan,38
+1974,Sneha Verma,Chennai,Tamil Nadu,35
+1975,Pooja Patel,Udaipur,Rajasthan,47
+1976,Kavya Mehta,Chandigarh,Chandigarh,35
+1977,Isha Singh,Jaipur,Rajasthan,48
+1978,Riya Agarwal,Mumbai,Maharashtra,55
+1979,Simran Joshi,Bengaluru,Karnataka,49
+1980,Meera Gupta,Pune,Maharashtra,28
+1981,Aarav Sharma,Lucknow,Uttar Pradesh,42
+1982,Vivaan Yadav,Jaipur,Rajasthan,50
+1983,Aditya Kumar,Mumbai,Maharashtra,55
+1984,Arjun Verma,Chandigarh,Chandigarh,58
+1985,Rahul Patel,Mumbai,Maharashtra,25
+1986,Amit Mehta,Pune,Maharashtra,28
+1987,Rohan Singh,Udaipur,Rajasthan,39
+1988,Karan Agarwal,Mumbai,Maharashtra,41
+1989,Vikas Joshi,Bengaluru,Karnataka,58
+1990,Ankit Gupta,Mumbai,Maharashtra,34
+1991,Priya Sharma,Mumbai,Maharashtra,29
+1992,Ananya Yadav,Mumbai,Maharashtra,49
+1993,Neha Kumar,Kolkata,West Bengal,32
+1994,Sneha Verma,Kolkata,West Bengal,33
+1995,Pooja Patel,Udaipur,Rajasthan,39
+1996,Kavya Mehta,Jaipur,Rajasthan,45
+1997,Isha Singh,Mumbai,Maharashtra,37
+1998,Riya Agarwal,Bhopal,Madhya Pradesh,50
+1999,Simran Joshi,Chennai,Tamil Nadu,27
+2000,Meera Gupta,Bhopal,Madhya Pradesh,57

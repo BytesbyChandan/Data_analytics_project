@@ -1,0 +1,97 @@
+product_id,product_name,category,price
+1,Laptop 1,Electronics,23231
+2,Smartphone 2,Electronics,57785
+3,Headphones 3,Electronics,51661
+4,Keyboard 4,Electronics,63568
+5,Mouse 5,Electronics,26815
+6,Monitor 6,Electronics,4189
+7,Smartwatch 7,Electronics,27430
+8,Tablet 8,Electronics,28761
+9,Laptop 9,Electronics,22088
+10,Smartphone 10,Electronics,2360
+11,Headphones 11,Electronics,29180
+12,Keyboard 12,Electronics,16882
+13,Mouse 13,Electronics,61115
+14,Monitor 14,Electronics,30827
+15,Smartwatch 15,Electronics,48708
+16,Tablet 16,Electronics,5503
+17,Mixer Grinder 1,Home & Kitchen,5032
+18,Air Fryer 2,Home & Kitchen,3891
+19,Coffee Maker 3,Home & Kitchen,674
+20,Cookware Set 4,Home & Kitchen,3455
+21,Bedsheet 5,Home & Kitchen,10532
+22,Water Bottle 6,Home & Kitchen,5843
+23,Mixer Grinder 7,Home & Kitchen,929
+24,Air Fryer 8,Home & Kitchen,9772
+25,Coffee Maker 9,Home & Kitchen,6352
+26,Cookware Set 10,Home & Kitchen,2503
+27,Bedsheet 11,Home & Kitchen,2239
+28,Water Bottle 12,Home & Kitchen,11336
+29,Mixer Grinder 13,Home & Kitchen,9500
+30,Air Fryer 14,Home & Kitchen,1539
+31,Coffee Maker 15,Home & Kitchen,5642
+32,Cookware Set 16,Home & Kitchen,6594
+33,T-Shirt 1,Clothing,2333
+34,Jeans 2,Clothing,5777
+35,Jacket 3,Clothing,2774
+36,Sneakers 4,Clothing,602
+37,Hoodie 5,Clothing,3372
+38,Kurta 6,Clothing,3591
+39,T-Shirt 7,Clothing,5508
+40,Jeans 8,Clothing,1647
+41,Jacket 9,Clothing,1300
+42,Sneakers 10,Clothing,1121
+43,Hoodie 11,Clothing,2490
+44,Kurta 12,Clothing,3638
+45,T-Shirt 13,Clothing,3163
+46,Jeans 14,Clothing,4699
+47,Jacket 15,Clothing,2845
+48,Sneakers 16,Clothing,1314
+49,Python Book 1,Books,523
+50,SQL Book 2,Books,572
+51,Data Science Book 3,Books,1643
+52,Novel 4,Books,644
+53,Business Book 5,Books,1998
+54,Python Book 6,Books,1443
+55,SQL Book 7,Books,1272
+56,Data Science Book 8,Books,345
+57,Novel 9,Books,2489
+58,Business Book 10,Books,1187
+59,Python Book 11,Books,1300
+60,SQL Book 12,Books,1543
+61,Data Science Book 13,Books,1198
+62,Novel 14,Books,1390
+63,Business Book 15,Books,1576
+64,Python Book 16,Books,359
+65,Football 1,Sports,5691
+66,Cricket Bat 2,Sports,4611
+67,Yoga Mat 3,Sports,607
+68,Badminton Racket 4,Sports,636
+69,Running Shoes 5,Sports,8955
+70,Football 6,Sports,5295
+71,Cricket Bat 7,Sports,6182
+72,Yoga Mat 8,Sports,7974
+73,Badminton Racket 9,Sports,8997
+74,Running Shoes 10,Sports,4507
+75,Football 11,Sports,2226
+76,Cricket Bat 12,Sports,8093
+77,Yoga Mat 13,Sports,6497
+78,Badminton Racket 14,Sports,4659
+79,Running Shoes 15,Sports,2930
+80,Football 16,Sports,936
+81,Face Wash 1,Beauty,995
+82,Shampoo 2,Beauty,539
+83,Moisturizer 3,Beauty,2484
+84,Sunscreen 4,Beauty,1636
+85,Perfume 5,Beauty,1329
+86,Face Wash 6,Beauty,1725
+87,Shampoo 7,Beauty,3442
+88,Moisturizer 8,Beauty,1747
+89,Sunscreen 9,Beauty,2795
+90,Perfume 10,Beauty,3812
+91,Face Wash 11,Beauty,2159
+92,Shampoo 12,Beauty,614
+93,Moisturizer 13,Beauty,2505
+94,Sunscreen 14,Beauty,1737
+95,Perfume 15,Beauty,2751
+96,Face Wash 16,Beauty,3341
